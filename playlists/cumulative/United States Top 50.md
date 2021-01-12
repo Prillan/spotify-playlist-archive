@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/United%20States%20Top%2050.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbLRQDuF5jeBp) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbLRQDuF5jeBp))
+[pretty](/playlists/pretty/United%20States%20Top%2050.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXbLRQDuF5jeBp) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbLRQDuF5jeBp))
 
 ### [United States Top 50](https://open.spotify.com/playlist/37i9dQZEVXbLRQDuF5jeBp)
 

@@ -1,8 +1,8 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Lady%20Gaga%20Radio.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ))
+[pretty](/playlists/pretty/Lady%20Gaga%20Radio.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E4Aop0u3mbfpJ))
 
 ### [Lady Gaga Radio](https://open.spotify.com/playlist/37i9dQZF1E4Aop0u3mbfpJ)
 
-> With LSD, Fergie, Carly Rae Jepsen and more
+> With Labrinth, P!nk, Jessie J and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

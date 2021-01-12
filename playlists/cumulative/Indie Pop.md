@@ -1,4 +1,4 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Indie%20Pop.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWEcRhUVtL8n) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWEcRhUVtL8n))
+[pretty](/playlists/pretty/Indie%20Pop.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWEcRhUVtL8n) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1DWWEcRhUVtL8n))
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 

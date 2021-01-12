@@ -1,4 +1,4 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Global%20Top%2050.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbMDoHDwVN2tF) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbMDoHDwVN2tF))
+pretty - [cumulative](/playlists/cumulative/Global%20Top%2050.md) - [plain](/playlists/plain/37i9dQZEVXbMDoHDwVN2tF) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZEVXbMDoHDwVN2tF))
 
 ### [Global Top 50](https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF)
 

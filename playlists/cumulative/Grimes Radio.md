@@ -1,8 +1,8 @@
-[pretty](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/pretty/Grimes%20Radio.md) - cumulative - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E4vLyj0srrBvo) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E4vLyj0srrBvo))
+[pretty](/playlists/pretty/Grimes%20Radio.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E4vLyj0srrBvo))
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Charli XCX, Jay Park, Robert Smith and more
+> With TV Girl, Toro y Moi, Kero Kero Bonito and more
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

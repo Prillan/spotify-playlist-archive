@@ -1,8 +1,8 @@
-pretty - [cumulative](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/cumulative/Carry%20Me%20Away%20Radio.md) - [plain](https://github.com/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E8FdFKgRxUOJv) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E8FdFKgRxUOJv))
+pretty - [cumulative](/playlists/cumulative/Carry%20Me%20Away%20Radio.md) - [plain](/playlists/plain/37i9dQZF1E8FdFKgRxUOJv) ([githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/master/playlists/plain/37i9dQZF1E8FdFKgRxUOJv))
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Kina Grannis, Lady A, Amos Lee and more
+> With John Mayer, Maggie Rogers, Maren Morris, John Legend and more
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
